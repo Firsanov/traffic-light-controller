@@ -273,6 +273,7 @@ pre-commit install
 ## 6. Контакты и поддержка
 
 Автор: Фирсанов Михаил 
-GitHub: https://github.com/your-username/traffic-light-controller
+
+GitHub: https://github.com/Firsanov/traffic-light-controller
 
 Обращения по ошибкам и предложения — через **GitHub Issues** репозитория.
