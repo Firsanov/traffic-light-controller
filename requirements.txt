@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pytest
+httpx
+flake8
+black
+pre-commit

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual env
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Docker / build
+*.egg-info/
+dist/
+build/
